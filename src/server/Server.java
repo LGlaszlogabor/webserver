@@ -1,4 +1,3 @@
-//László Gábor|631.csoport|lgam0067
 package server;
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
